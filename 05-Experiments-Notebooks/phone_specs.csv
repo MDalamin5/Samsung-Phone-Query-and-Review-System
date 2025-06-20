@@ -1,0 +1,19 @@
+phone_name,network_technology,network_2g_bands,network_3g_bands,network_4g_bands,network_,network_5g_bands,network_speed,launch_announced,launch_status,body_dimensions,body_weight,body_build,body_sim,body_,display_type,display_size,display_resolution,display_protection,platform_os,platform_chipset,platform_cpu,platform_gpu,memory_card_slot,memory_internal,main_camera_dual,main_camera_features,main_camera_video,selfie_camera_single,selfie_camera_video,sound_loudspeaker,sound_3.5mm_jack,comms_wlan,comms_bluetooth,comms_positioning,comms_nfc,comms_radio,comms_usb,features_sensors,features_,battery_type,battery_charging,misc_colors,misc_models,misc_sar,misc_sar_eu,misc_price,tests_performance,tests_display,tests_loudspeaker,tests_battery_(new)
+Samsung Galaxy S25 Edge,GSM / HSPA / LTE / 5G,GSM 850 / 900 / 1800 / 1900,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28,
+                      32, 38, 39, 40, 41, 66 - International","1, 2, 5, 7, 25, 28, 41, 66, 71, 77, 78, 257, 258, 260, 261
+                      SA/NSA/Sub6/mmWave - USA","1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75,
+                      77, 78 SA/NSA/Sub6 - International","HSPA, LTE (CA), 5G","2025, May 13","Available. Released 2025, May 29",158.2 x 75.6 x 5.8 mm (6.23 x 2.98 x 0.23 in),163 g (5.75 oz),"Glass front (Gorilla Glass Ceramic 2), titanium frame,
+                      glass back (Gorilla Glass Victus 2)","Nano-SIM + Nano-SIM +
+                      eSIM + eSIM (max 2
+                      at a time)Nano-SIM + eSIM + eSIM (max 2 at a time)","IP68 dust tight and water resistant (immersible up to 1.5m
+                      for 30 min)","LTPO AMOLED 2X, 120Hz, 480Hz PWM, HDR10+","6.7 inches, 110.2 cm2 (~92.1% screen-to-body
+                      ratio)","1440 x 3120 pixels, 19.5:9 ratio (~513 ppi density)",Corning Gorilla Glass Ceramic 2,"Android 15, One UI 7",Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm),"Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz
+                      Oryon V2 Phoenix M)",Adreno 830,No,"256GB 12GB RAM, 512GB 12GB RAM","200 MP, f/1.7, 24mm (wide), 1/1.3"", 0.6µm,
+                      multi-directional PDAF, OIS
+                      12 MP, f/2.2, 13mm (ultrawide), 1/2.55"", 1.4µm, PDAF","Best Face, LED flash, HDR, panorama","8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps","12 MP, f/2.2, 26mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF","4K@30/60fps, 1080p@30/60fps","Yes, with stereo speakers",No,"Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct","5.4, A2DP, LE","GPS, GLONASS, GALILEO, BDS",Yes,Unspecified,USB Type-C 3.2,"Fingerprint (under display, ultrasonic), accelerometer,
+                      proximity, gyro, compass, barometer","Samsung DeX
+                      Ultra Wideband (UWB) support",Li-Ion 3900 mAh,"25W wired, PD, QC2.0, 55% in 30 min
+                      15W wireless (Qi2 Ready)","Titanium Icyblue, Titanium Silver, Titanium Jetblack","SM-S937U, SM-S937U1, SM-S937B, SM-S937B/DS, SM-S9370",1.21 W/kg (head)     1.23 W/kg (body),1.24 W/kg (head)     1.25 W/kg (body),"$ 1,055.99 / C$ 1,299.99 / £ 930.13 / € 999.00 /
+                        ₹ 109,999","AnTuTu: 2147084 (v10)
+                      GeekBench: 9391 (v6)
+                      3DMark: 6473 (Wild Life Extreme)",1416 nits max brightness (measured),-26.4 LUFS (Good),Active use score 12:06h
