@@ -1,5 +1,6 @@
 # /graph/builder.py
 from langgraph.graph import StateGraph, END, START
+from langgraph.checkpoint.memory import InMemorySaver
 from .nodes import (
     supervisor_node,
     data_extraction_node,
@@ -51,5 +52,6 @@ def build_graph():
     builder.add_edge("LLM", END)
     builder.add_edge("RAG", END)
 
+    memory = InMemorySaver()
     graph = builder.compile()
     return graph
