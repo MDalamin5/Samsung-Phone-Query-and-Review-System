@@ -1,0 +1,23 @@
+
+# Web Framework and Server
+fastapi
+uvicorn[standard]
+
+# LangChain Core and Integrations
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-experimental
+langchain-huggingface
+langchain-pinecone
+langgraph
+
+# Other Core Dependencies
+pydantic
+python-dotenv
+sentence-transformers
+requests
+
+# Optional but often needed by LangChain tools
+playwright
