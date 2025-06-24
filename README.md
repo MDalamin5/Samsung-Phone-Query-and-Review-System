@@ -149,7 +149,7 @@ Once the application is running, you can interact with the chatbot. Here are som
     - "Hi, how are you today?"
 
 ### 📁 Project Structure
-
+```bash
 samsung-assistant/
 ├── app.py                 # Streamlit frontend application
 ├── README.md              # This file
@@ -171,3 +171,4 @@ samsung-assistant/
         ├── prompts.py
         └── schemas.py
 
+```
