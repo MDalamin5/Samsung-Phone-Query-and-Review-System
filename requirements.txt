@@ -29,3 +29,4 @@ pypdf
 langchain_experimental
 langchain-tavily
 yfinance
+langchain-ollama
